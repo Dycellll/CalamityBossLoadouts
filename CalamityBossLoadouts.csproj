@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="BossLoadouts">
+	    <HintPath>..\..\ModReader\BossLoadouts\BossLoadouts.dll</HintPath>
+	  </Reference>
+	  <Reference Include="CalamityMod">
+	    <HintPath>..\..\ModSources\CalamityBossLoadouts\Lib\CalamityMod.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

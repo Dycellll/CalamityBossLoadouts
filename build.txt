@@ -1,0 +1,8 @@
+displayName = Dycel's Boss Loadouts (Calamity)
+author = Dycel
+version = 1.2.22
+buildIgnore = *.csproj, *.sln, obj\*, bin\*, .vs\* Lib\*
+homepage = https://discord.gg/JYJ5V5Utu4
+modReferences = BossLoadouts, CalamityMod
+sortAfter = BossLoadouts, CalamityMod
+includeSource = false

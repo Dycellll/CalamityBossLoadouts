@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JC9CtjnUYE=",
+  "success": true,
+  "projectFilePath": "/home/dycel/.local/share/Terraria/tModLoader/ModSources/CalamityBossLoadouts/CalamityBossLoadouts.csproj",
+  "expectedPackageFiles": [
+    "/home/dycel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
