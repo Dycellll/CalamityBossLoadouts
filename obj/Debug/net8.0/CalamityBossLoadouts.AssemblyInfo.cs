@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalamityBossLoadouts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e9d99d2aaf2fd11ddf3440043ec8308d6bd172")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalamityBossLoadouts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalamityBossLoadouts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
